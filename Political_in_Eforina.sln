@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1778
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Political_in_Eforina", "Political_in_Eforina\Political_in_Eforina.csproj", "{216466BB-88F1-44D4-A5AC-170CD872C79F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{216466BB-88F1-44D4-A5AC-170CD872C79F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216466BB-88F1-44D4-A5AC-170CD872C79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216466BB-88F1-44D4-A5AC-170CD872C79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216466BB-88F1-44D4-A5AC-170CD872C79F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2C8AF40-7F40-4681-BE93-4F5BAA567E3E}
+	EndGlobalSection
+EndGlobal
